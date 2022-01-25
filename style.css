@@ -1,6 +1,6 @@
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+  background: #e6522d;
+  background-color: #052c05;
 }
 
 h1 {
@@ -9,8 +9,9 @@ h1 {
 }
 
 p {
-   font-family Times New Roman;
+   font-family:cursive;
    font-size: 1.5em;
+   color: bisque;
 }
 
 a {
